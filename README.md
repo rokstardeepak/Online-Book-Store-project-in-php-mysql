@@ -18,8 +18,11 @@ Online Book store Project Report are also available on the website  any one can 
 
 # Installation/Configuration/Execution Steps
 1.Download Online Book Store Project
+
 2.Unzip the Downloaded Project
+
 3.Copy and Paste inside WWW folder or htdocs folder
+
 4.Open Your Web Browser and type inside “localhost/online-book-store-project-in-php”
 
 # Database Configuration
