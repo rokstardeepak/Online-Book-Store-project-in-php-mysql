@@ -27,9 +27,12 @@ Online Book store Project Report are also available on the website  any one can 
 
 # Database Configuration
 1.Create a new database named “www_project”
+
 2.Import “www_project.sql” file from database folder(See in downloaded folder)
 
 # Admin Login Details
 1.Use the Same Login Form(Given on left Sidebar on front Page)
+
 2.Username: admin@admin.com
+
 3. Password: admin
